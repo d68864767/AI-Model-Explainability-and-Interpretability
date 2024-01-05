@@ -1,0 +1,29 @@
+/* Documentation Page Styles */
+
+/* Importing the main styles */
+@import url('style.css');
+
+/* Documentation specific styles */
+.documentation-header {
+    background-color: #4a90e2;
+}
+
+.documentation-section {
+    border-color: #4a90e2;
+}
+
+.documentation-section h2 {
+    color: #4a90e2;
+}
+
+.documentation-section a {
+    color: #4a90e2;
+}
+
+.documentation-section a:hover {
+    color: #2175d9;
+}
+
+.documentation-footer {
+    background-color: #4a90e2;
+}

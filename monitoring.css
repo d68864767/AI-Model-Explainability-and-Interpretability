@@ -1,0 +1,31 @@
+/* monitoring.css */
+
+/* This file will contain any additional styles specific to the monitoring.html page. */
+
+/* You can override the styles from style.css or add new styles. For example, you might want to change the color scheme for this page, or add some custom styles for the sections. */
+
+/* Here are some example styles: */
+
+body {
+    background-color: #e8eaf6;
+}
+
+header {
+    background: #3f51b5;
+}
+
+main h2 {
+    color: #3f51b5;
+}
+
+main section {
+    border-color: #3f51b5;
+}
+
+footer {
+    background: #3f51b5;
+}
+
+/* You can also add styles for any new elements you add to the monitoring.html page. For example, if you add a button, you could add styles for it here. */
+
+/* Remember to keep your CSS organized and easy to read. Use comments to explain your styles if necessary. */

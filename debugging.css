@@ -1,0 +1,38 @@
+/* debugging.css */
+
+/* Apply styles to the main sections on the debugging page */
+#guides, #performance-benchmarks, #cloud-integration {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Apply styles to the h2 elements within the main sections */
+#guides h2, #performance-benchmarks h2, #cloud-integration h2 {
+    color: #333;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+/* Apply styles to the p elements within the main sections */
+#guides p, #performance-benchmarks p, #cloud-integration p {
+    color: #666;
+    font-size: 1em;
+    line-height: 1.6;
+}
+
+/* Apply styles to the main sections when they are hovered over */
+#guides:hover, #performance-benchmarks:hover, #cloud-integration:hover {
+    border-color: #333;
+    background-color: #f9f9f9;
+}
+
+/* Apply styles to the h2 elements within the main sections when their parent section is hovered over */
+#guides:hover h2, #performance-benchmarks:hover h2, #cloud-integration:hover h2 {
+    color: #666;
+}
+
+/* Apply styles to the p elements within the main sections when their parent section is hovered over */
+#guides:hover p, #performance-benchmarks:hover p, #cloud-integration:hover p {
+    color: #333;
+}

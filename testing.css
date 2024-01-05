@@ -1,0 +1,36 @@
+/* testing.css */
+
+/* Import the base styles */
+@import 'style.css';
+
+/* Define styles specific to the Testing and Validation page */
+
+/* Style the main sections */
+#test-case-generation,
+#validation,
+#continuous-testing {
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+/* Style the section headers */
+#test-case-generation h2,
+#validation h2,
+#continuous-testing h2 {
+    color: #333;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+/* Style the section content */
+#test-case-generation p,
+#validation p,
+#continuous-testing p {
+    color: #666;
+    font-size: 1em;
+    line-height: 1.6;
+}
+

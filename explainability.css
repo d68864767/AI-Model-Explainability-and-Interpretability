@@ -1,0 +1,23 @@
+/* explainability.css */
+
+#explainability {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+#explainability h2 {
+    font-size: 1.5em;
+    color: #444;
+    margin-bottom: 10px;
+}
+
+#explainability p {
+    font-size: 1.2em;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+#explainability p:last-child {
+    margin-bottom: 0;
+}

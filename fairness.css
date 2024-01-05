@@ -1,0 +1,38 @@
+/* fairness.css */
+
+/* Specific styles for the fairness page */
+
+body {
+    background-color: #e6f2ff;
+}
+
+header {
+    background: #0052cc;
+}
+
+main h2 {
+    color: #0052cc;
+}
+
+main section {
+    border: 1px solid #0052cc;
+}
+
+footer {
+    background: #0052cc;
+}
+
+/* Styles for the methodologies section */
+#methodologies {
+    background-color: #cce6ff;
+}
+
+/* Styles for the integration section */
+#integration {
+    background-color: #99ccff;
+}
+
+/* Styles for the education section */
+#education {
+    background-color: #66b3ff;
+}

@@ -1,0 +1,34 @@
+/* governance.css */
+
+/* Importing the base styles */
+@import url('style.css');
+
+/* Specific styles for the Governance page */
+
+/* Section styles */
+#international-standards,
+#access-controls,
+#compliance-cases {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+
+/* Heading styles */
+#international-standards h2,
+#access-controls h2,
+#compliance-cases h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Paragraph styles */
+#international-standards p,
+#access-controls p,
+#compliance-cases p {
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
